@@ -1,0 +1,63 @@
+Event,ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Medal
+Athletics Men's 200 metres,36,36,36,36,29,29,36,36,36,36,36,36,36,1
+Athletics Men's 4 x 100 metres Relay,42,42,42,42,37,37,42,42,42,42,42,42,42,13
+Athletics Men's 800 metres,21,21,21,20,20,18,21,21,21,21,21,21,21,2
+Athletics Men's High Jump,10,10,10,10,8,8,10,10,10,10,10,10,10,1
+Athletics Men's Marathon,26,26,26,24,25,24,26,26,26,26,26,26,26,1
+Athletics Men's Pole Vault,9,9,9,8,7,6,9,9,9,9,9,9,9,1
+Athletics Men's Triple Jump,24,24,24,24,21,21,24,24,24,24,24,24,24,6
+Athletics Women's Long Jump,14,14,14,14,12,12,14,14,14,14,14,14,14,1
+Basketball Men's Basketball,173,173,173,172,145,135,173,173,173,173,173,173,173,34
+Basketball Women's Basketball,82,82,82,82,82,76,82,82,82,82,82,82,82,24
+Beach Volleyball Men's Beach Volleyball,24,24,24,24,24,24,24,24,24,24,24,24,24,12
+Beach Volleyball Women's Beach Volleyball,24,24,24,24,23,23,24,24,24,24,24,24,24,14
+Boxing Men's Flyweight,7,7,7,7,7,7,7,7,7,7,7,7,7,1
+Boxing Men's Light-Heavyweight,9,9,9,9,8,8,9,9,9,9,9,9,9,1
+Boxing Men's Lightweight,8,8,8,8,7,7,8,8,8,8,8,8,8,1
+Boxing Men's Middleweight,8,8,8,8,6,6,8,8,8,8,8,8,8,1
+Boxing Women's Lightweight,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+"Canoeing Men's Canadian Doubles, 1,000 metres",4,4,4,4,4,4,4,4,4,4,4,4,4,2
+"Canoeing Men's Canadian Singles, 1,000 metres",2,2,2,2,2,2,2,2,2,2,2,2,2,1
+"Canoeing Men's Canadian Singles, 200 metres",2,2,2,2,2,2,2,2,2,2,2,2,2,1
+"Equestrianism Mixed Jumping, Individual",47,47,47,47,44,40,47,47,47,47,47,47,47,1
+"Equestrianism Mixed Jumping, Team",44,44,44,44,41,37,44,44,44,44,44,44,44,8
+Football Men's Football,204,204,204,204,177,162,204,204,204,204,204,204,204,101
+Football Women's Football,102,102,102,102,102,101,102,102,102,102,102,102,102,35
+Gymnastics Men's Floor Exercise,12,12,12,12,12,12,12,12,12,12,12,12,12,2
+Gymnastics Men's Rings,11,11,11,11,11,11,11,11,11,11,11,11,11,2
+Judo Men's Extra-Lightweight,10,10,10,10,9,9,10,10,10,10,10,10,10,1
+Judo Men's Half-Heavyweight,12,12,12,12,12,12,12,12,12,12,12,12,12,4
+Judo Men's Half-Lightweight,10,10,10,10,9,9,10,10,10,10,10,10,10,2
+Judo Men's Half-Middleweight,11,11,11,11,11,11,11,11,11,11,11,11,11,2
+Judo Men's Heavyweight,10,10,10,10,9,9,10,10,10,10,10,10,10,2
+Judo Men's Lightweight,10,10,10,10,9,9,10,10,10,10,10,10,10,4
+Judo Men's Middleweight,13,13,13,13,12,12,13,13,13,13,13,13,13,2
+Judo Women's Extra-Lightweight,7,7,7,7,5,5,7,7,7,7,7,7,7,1
+Judo Women's Half-Heavyweight,6,6,6,6,5,5,6,6,6,6,6,6,6,2
+Judo Women's Lightweight,7,7,7,7,6,6,7,7,7,7,7,7,7,2
+Modern Pentathlon Women's Individual,4,4,4,4,4,4,4,4,4,4,4,4,4,1
+Sailing Men's Two Person Keelboat,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+Sailing Mixed Multihull,16,16,16,16,16,16,16,16,16,16,16,16,16,6
+Sailing Mixed One Person Dinghy,16,16,16,16,13,12,16,16,16,16,16,16,16,3
+Sailing Mixed Three Person Keelboat,25,25,25,24,23,22,25,25,25,25,25,25,25,3
+Sailing Mixed Two Person Dinghy,6,6,6,6,6,6,6,6,6,6,6,6,6,2
+Sailing Mixed Two Person Heavyweight Dinghy,20,20,20,20,16,14,20,20,20,20,20,20,20,4
+Sailing Mixed Two Person Keelboat,28,28,28,28,20,17,28,28,28,28,28,28,28,6
+Sailing Women's Skiff,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Sailing Women's Two Person Dinghy,14,14,14,14,12,12,14,14,14,14,14,14,14,2
+"Shooting Men's Air Pistol, 10 metres",5,5,5,5,4,4,5,5,5,5,5,5,5,1
+"Shooting Men's Free Pistol, 50 metres",18,18,18,17,11,5,18,18,18,18,18,18,18,1
+"Shooting Men's Free Pistol, 50 metres, Team",5,5,5,4,2,0,5,5,5,5,5,5,5,5
+"Shooting Men's Military Pistol, 30 metres",5,5,5,4,1,0,5,5,5,5,5,5,5,1
+"Swimming Men's 1,500 metres Freestyle",16,16,16,16,11,11,16,16,16,16,16,16,16,1
+Swimming Men's 100 metres Freestyle,40,40,40,37,25,21,40,40,40,40,40,40,40,4
+Swimming Men's 200 metres Freestyle,16,16,16,16,16,16,16,16,16,16,16,16,16,1
+Swimming Men's 4 x 100 metres Freestyle Relay,41,41,41,41,39,39,41,41,41,41,41,41,41,4
+Swimming Men's 4 x 200 metres Freestyle Relay,56,56,56,55,40,40,56,56,56,56,56,56,56,4
+Swimming Men's 400 metres Individual Medley,11,11,11,11,11,11,11,11,11,11,11,11,11,2
+Swimming Men's 50 metres Freestyle,15,15,15,15,14,14,15,15,15,15,15,15,15,3
+Swimming Women's 10 kilometres Open Water,5,5,5,5,5,5,5,5,5,5,5,5,5,1
+Taekwondo Men's Heavyweight,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Taekwondo Women's Heavyweight,3,3,3,3,3,3,3,3,3,3,3,3,3,1
+Volleyball Men's Volleyball,165,165,165,165,164,164,165,165,165,165,165,165,165,72
+Volleyball Women's Volleyball,120,120,120,120,118,118,120,120,120,120,120,120,120,48
