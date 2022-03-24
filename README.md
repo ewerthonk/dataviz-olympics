@@ -1,5 +1,7 @@
 # dataviz-olympics
 
+<img src="Capa - Dataviz olympics branco_Prancheta 1.png">
+
 Este projeto consiste em uma análise de dados históricos dos jogos olímpicos.
 
 Utilize qualquer uma das bibliotecas estudadas (```matplotlib```, ```seaborn``` e ```plotly```) para realizar as atividades propostas. Não há problema em usar apenas uma para realizar todas as atividades, nem em utilizar cada uma delas em uma atividade diferente - siga suas preferências pessoais!
