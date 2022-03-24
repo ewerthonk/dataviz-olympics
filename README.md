@@ -1,6 +1,6 @@
 # dataviz-olympics
 
-<img src="Capa - Dataviz olympics branco_Prancheta 1.png">
+<img src="/images/Capa - Dataviz olympics branco_Prancheta 1.png">
 
 Este projeto consiste em uma análise de dados históricos dos jogos olímpicos.
 
