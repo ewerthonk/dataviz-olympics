@@ -10,7 +10,7 @@
 
 ## 👨🏻‍🏫 Description
 
-A **visual** exploratory data analysis of 🇧🇷 Brazil 🇧🇷 at the Olympic Games using the ```athlete_events.csv``` dataset.
+A **visual** exploratory data analysis of 🇧🇷 Brazil at the Olympic Games using the ```athlete_events.csv``` dataset.
 
 The goal here was to practice data visualization skills. The notebook explores a few questions:
 
