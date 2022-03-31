@@ -1,6 +1,20 @@
-# dataviz-olympics
+# Data Visualization: The Olympics
 
-<img src="/images/Capa - Dataviz olympics branco_Prancheta 1.png">
+<p align="center"><img src="./images/dataviz-olympics-readme-image-transparent.png" width="500"></p>
+
+## 🧰 Using  
+
+<div align="center">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+</div>
+
+&nbsp;
+
+<div align="center"><img src="./images/dataviz-olympics-readme-image-transparent.png" width="500"></div>
+
+## 👨🏻‍🏫 Description
 
 Este projeto consiste em uma análise de dados históricos dos jogos olímpicos.
 
