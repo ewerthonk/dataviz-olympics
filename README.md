@@ -1,23 +1,24 @@
-# Data Visualization: The Olympics
-
-<p align="center"><img src="./images/dataviz-olympics-readme-image-transparent.png" width="500"></p>
-
-## 🧰 Using  
+# Data Visualization - Olympics
 
 <div align="center">
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+<img src="./images/dataviz-olympics-readme-image-transparent.png" width="500">
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </div>
-
-&nbsp;
-
-<div align="center"><img src="./images/dataviz-olympics-readme-image-transparent.png" width="500"></div>
 
 ## 👨🏻‍🏫 Description
 
-Este projeto consiste em uma análise de dados históricos dos jogos olímpicos.
+A **visual** exploratory data analysis of 🇧🇷 Brazil 🇧🇷 at the Olympic Games using the ```athlete_events.csv``` dataset.
 
-Utilize qualquer uma das bibliotecas estudadas (```matplotlib```, ```seaborn``` e ```plotly```) para realizar as atividades propostas. Não há problema em usar apenas uma para realizar todas as atividades, nem em utilizar cada uma delas em uma atividade diferente - siga suas preferências pessoais!
+The goal here was to practice data visualization skills. The notebook explores a few questions:
 
-Utilize os (muitos) parâmetros permitidos por cada função e/ou atributos dos objetos fornecidos pelas bibliotecas para criar uma identidade visual coesa para ser utilizada em todo o projeto. Use títulos, legendas e rótulos nos eixos para deixar os gráficos verdadeiramente informativos. E não se esqueça que a simples escolha das cores a serem utilizadas pode tornar os gráficos ainda mais interessantes!
+- Is there any correlation between an athlete's height and his/her performance for any sports?
+- Do you think taller Basketball Brazil Teams perform better than the smaller? What about footbal? What would be a good Volleyball Team average height?
+- What would be a good visualization to show, by sport, the proportion of gold, silver, and bronze medals Brazil have earned?
+- How was Brazil's evolution in earned medals through time?
+ 
+> **Access the notebook [HERE]("https://nbviewer.org/github/ewerthonk/dataviz-olympics/blob/main/dataviz-olympics.ipynb") to see all the visualizations.**
+
+**Important:** The notebook uses Plotly (check the hovers!) to create the charts. So, they will not be rendered directly on Github view. The link above redirects you to nbviewer.
