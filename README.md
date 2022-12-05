@@ -1,7 +1,5 @@
 # Data Visualization - Olympics
 
-<div align="center"><img src="./images/dataviz-olympics-readme-image-transparent.png" width="500"></div>
-
 <div align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
