@@ -7,14 +7,16 @@
 <img src="https://img.shields.io/badge/plotly-%23004DFF.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </div>
 
-*Exploratory Data Visual Analysis on Olympic Games Data*
+*Exploratory Data Visual Analysis on Brazil at the Olympic Games*
 
 # 📖 Project
 
 ## 👨🏻‍🏫 Introduction
+
 A **visual** exploratory data analysis of 🇧🇷 Brazil at the Olympic Games on the [athlete_events.csv](#-features) dataset and some of the most popular data visualization libraries on python.
 
 ## 🎯 Goal
+
 Practice data visualization skills. The notebook explores a few questions:
 
 - Is there any correlation between an athlete's height and his/her performance for any sports?
@@ -23,9 +25,11 @@ Practice data visualization skills. The notebook explores a few questions:
 - How was Brazil's evolution in earned medals through time?
 
 # 📊 Chart Example
+
 ![Chart Example](references/chart-example.png)
 
 ## 📈 Features
+
 | Column | Description                                     |
 |--------|-------------------------------------------------|
 | ID     | Athlete unique key.                             |
@@ -45,6 +49,7 @@ Practice data visualization skills. The notebook explores a few questions:
 | Medal  | Earned medal: Gold, Silver, Bronze ou NaN       |
  
  # 🗄 Notebooks
+
 [1.0-eda.ipynb](https://nbviewer.org/github/ewerthonk/dataviz-olympics/blob/main/dataviz-olympics.ipynb)
 
 **Important:** The notebook uses Plotly (check the hovers!) to create the charts. So, they will not be rendered directly on Github view. The link above redirects you to nbviewer.
