@@ -28,9 +28,9 @@ Practice data visualization skills. The notebook explores a few questions:
 
 ![Chart Example](references/chart-example.png)
 
- # 🗄 Notebooks
+# 🗄 Notebooks
 
-[1.0-eda.ipynb](https://nbviewer.org/github/ewerthonk/dataviz-olympics/blob/main/dataviz-olympics.ipynb)
+- [1.0-eda.ipynb](https://nbviewer.org/github/ewerthonk/dataviz-olympics/blob/main/dataviz-olympics.ipynb)
 
 **Important:** The notebook uses Plotly (check the hovers!) to create the charts. So, they will not be rendered directly on Github view. The link above redirects you to nbviewer.
 
