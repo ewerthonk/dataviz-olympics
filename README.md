@@ -1,5 +1,7 @@
 # Data Visualization - Brazil on the Olympic Games
 
+*Exploratory Data Visual Analysis on Brazil at the Olympic Games*
+
 <div align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
@@ -7,15 +9,13 @@
 <img src="https://img.shields.io/badge/plotly-%23004DFF.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </div>
 
-*Exploratory Data Visual Analysis on Brazil at the Olympic Games*
-
 # 📖 Project
 
-## 👨🏻‍🏫 Introduction
+### 👨🏻‍🏫 Introduction
 
 A **visual** exploratory data analysis of 🇧🇷 Brazil at the Olympic Games on the [athlete_events.csv](#-features) dataset and some of the most popular data visualization libraries on python.
 
-## 🎯 Goal
+### 🎯 Goal
 
 Practice data visualization skills. The notebook explores a few questions:
 
@@ -24,11 +24,17 @@ Practice data visualization skills. The notebook explores a few questions:
 - What would be a good visualization to show, by sport, the proportion of gold, silver, and bronze medals Brazil have earned?
 - How was Brazil's evolution in earned medals through time?
 
-# 📊 Chart Example
+### 📊 Chart Example
 
 ![Chart Example](references/chart-example.png)
 
-## 📈 Features
+ # 🗄 Notebooks
+
+[1.0-eda.ipynb](https://nbviewer.org/github/ewerthonk/dataviz-olympics/blob/main/dataviz-olympics.ipynb)
+
+**Important:** The notebook uses Plotly (check the hovers!) to create the charts. So, they will not be rendered directly on Github view. The link above redirects you to nbviewer.
+
+# 📈 Features
 
 | Column | Description                                     |
 |--------|-------------------------------------------------|
@@ -47,12 +53,6 @@ Practice data visualization skills. The notebook explores a few questions:
 | Sport  | Sport in which athlete competed                 |
 | Event  | Sport category/event in which athlete competed  |
 | Medal  | Earned medal: Gold, Silver, Bronze ou NaN       |
- 
- # 🗄 Notebooks
-
-[1.0-eda.ipynb](https://nbviewer.org/github/ewerthonk/dataviz-olympics/blob/main/dataviz-olympics.ipynb)
-
-**Important:** The notebook uses Plotly (check the hovers!) to create the charts. So, they will not be rendered directly on Github view. The link above redirects you to nbviewer.
 
 # 📦 Folder Structure
 
