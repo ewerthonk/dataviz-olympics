@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/plotly-%23004DFF.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </div>
 
-# 📖 Project
+## 📖 Project
 
 ### 👨🏻‍🏫 Introduction
 
@@ -28,13 +28,13 @@ Practice data visualization skills. The notebook explores a few questions:
 
 ![Chart Example](references/chart-example.png)
 
-# 🗄 Notebooks
+## 🗄 Notebooks
 
 - [1.0-eda.ipynb](https://nbviewer.org/github/ewerthonk/dataviz-olympics/blob/main/dataviz-olympics.ipynb)
 
 **Important:** The notebook uses Plotly (check the hovers!) to create the charts. So, they will not be rendered directly on Github view. The link above redirects you to nbviewer.
 
-# 📈 Features
+## 📈 Features
 
 | Column | Description                                     |
 |--------|-------------------------------------------------|
@@ -54,7 +54,7 @@ Practice data visualization skills. The notebook explores a few questions:
 | Event  | Sport category/event in which athlete competed  |
 | Medal  | Earned medal: Gold, Silver, Bronze ou NaN       |
 
-# 📦 Folder Structure
+## 📦 Folder Structure
 
     ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project.
