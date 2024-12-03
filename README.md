@@ -1,6 +1,10 @@
 # Data Visualization - Brazil on the Olympic Games
 
-*Exploratory Data Visual Analysis on Brazil at the Olympic Games*
+<div align="center">
+  <em>Exploratory Data Visual Analysis on Brazil at the Olympic Games.</em>
+</div>
+
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
